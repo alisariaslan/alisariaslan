@@ -24,4 +24,4 @@ Last edited on: 01 October 2023
 
 ![signature|320x50](https://github.com/alisariaslan/alisariaslan/assets/36519570/2b410eb3-6d04-4b90-85cf-160900398fb0)
 
-<img src='https://github.com/alisariaslan/alisariaslan/assets/36519570/2b410eb3-6d04-4b90-85cf-160900398fb0.png' width='25'>
+<img src='https://github.com/alisariaslan/alisariaslan/assets/36519570/2b410eb3-6d04-4b90-85cf-160900398fb0.png' width='100'>
