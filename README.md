@@ -1,4 +1,4 @@
-## Cross-platform dev.
+## Introduction
 
 - 👨‍💻 I'm developing for both desktop and mobile devices using specific frameworks and ides.
 - 🌏 I setup and manage my own servers for databases and projects.
