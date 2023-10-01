@@ -22,5 +22,8 @@ I 'm also producing and publishing games besides applications.
 
 Last edited on: 01 October 2023
 
-![signature](https://github.com/alisariaslan/alisariaslan/assets/36519570/2b410eb3-6d04-4b90-85cf-160900398fb0)
+![signature](https://github.com/alisariaslan/alisariaslan/assets/36519570/2b410eb3-6d04-4b90-85cf-160900398fb0) {
+   width:200px;
+   height:100px;
+}
 
