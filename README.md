@@ -8,13 +8,13 @@
 ##### Languages I'm currently using:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![CSharp](https://img.shields.io/badge/-C-000000?style=flat&logo=csharp)
+![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
 ##### Frameworks I'm currently using:
 
-![MAUI](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![ASP.NET](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![MAUI](https://img.shields.io/badge/-MAUI-000000?style=flat&logo=maui)
+![AspNET](https://img.shields.io/badge/-AspNET-000000?style=flat&logo=aspnet)
 
 I 'm also producing and publishing games besides applications.
 
