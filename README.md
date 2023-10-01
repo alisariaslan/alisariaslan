@@ -16,8 +16,6 @@
 ![MAUI](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![ASP.NET](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 
-<br/>
-
 ---
 
 I 'm also producing and publishing games besides applications.
