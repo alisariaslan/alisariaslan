@@ -1,9 +1,9 @@
 ## Summary
 
-- 👨‍💻 I'm developing for both desktop and mobile devices using specific frameworks and ides.
-- 🌏 I setup and manage my own servers for databases and projects.
-- 🔑 Problem solving and producing is what I enjoy doing.
-- ⭐ Fast learning is the key for this era. But toe to teeth learning makes our foundations.
+- 👨‍💻 Right now I'm developing cross-platform applications under .net frameworks.
+- 🌏 I setup and manage my own services.
+- 🔑 Problem solving and producing is what I enjoy.
+- ⭐ All repositories you can see on my profile are my open source projects.
 
 ##### Languages I'm currently using:
 
