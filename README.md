@@ -1,18 +1,3 @@
-## Summary
+My interest in software began in middle school with a GameMaker project I developed. During high school, I created products for Windows and Android platforms. In university, I professionally developed mobile applications for both Android and iOS. I have been actively involved in desktop, web, mobile, gaming, service, and database projects. I have a particular interest in layered architecture, error handling, logging systems, and sustainable software development processes. Additionally, I have extensive experience in system and network management through servers I personally manage.
 
-- 👨‍💻 Right now I'm developing cross-platform applications under .net frameworks.
-- 🌏 I setup and manage my own services.
-- 🔑 Problem solving and producing is what I enjoy.
-- ⭐ All repositories you can see on my profile are my open source projects.
-
-##### Languages and Frameworks I was used:
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![MAUI](https://img.shields.io/badge/-MAUI-000000?style=flat&logo=maui)
-![AspNET](https://img.shields.io/badge/-AspNET-000000?style=flat&logo=aspnet)
-![EJS](https://img.shields.io/badge/-EJS-000000?style=flat&logo=ejs)
-![Handlebars](https://img.shields.io/badge/-Handlebars-000000?style=flat&logo=Handlebars)
-
-Last edited on: 01 October 2023
+I am also open to freelance or contract opportunities in database, API, UI development, and system/network management.
