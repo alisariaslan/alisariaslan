@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali SARIASLAN
 
-![Header](https://raw.githubusercontent.com/alisariaslan/alisariaslan/main/assets/header.png)
+![git-header](https://github.com/user-attachments/assets/8c57ca04-ff86-4083-9c7d-0f013fb4c2c0)
 
 I am a Software Developer with end-to-end product development
 experience across mobile, desktop, and web platforms. I have
@@ -54,4 +54,5 @@ I am also open to freelance or contract opportunities!
 
 ---
 
-![Footer](https://raw.githubusercontent.com/alisariaslan/alisariaslan/main/assets/footer.png)
+![git-footer](https://github.com/user-attachments/assets/03b6b0a7-5ab3-4acc-850a-594fccf647b3)
+
