@@ -22,7 +22,7 @@ are deployed to production in a secure and sustainable manner.
 - 📱 Mobile & cross-platform development  
 - ⚙️ Clean Architecture, MVVM & Microservices  
 - 🗄 Backend & Database integration  
-- 🚀 CI/CD, Server Management & App Store releases  
+- 🚀 CI/CD, Server Management & Play Store + App Store releases  
 
 ---
 
