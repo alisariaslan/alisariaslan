@@ -2,8 +2,6 @@
 
 ![Header](https://raw.githubusercontent.com/alisariaslan/alisariaslan/main/assets/header.png)
 
----
-
 I am a Software Developer with end-to-end product development
 experience across mobile, desktop, and web platforms. I have
 contributed to the architectural design and development of
@@ -15,18 +13,20 @@ layers. I have also taken an active role in CI/CD pipelines, server
 management, and app store release processes to ensure products
 are deployed to production in a secure and sustainable manner.
 
+I am also open to freelance or contract opportunities!
+
 ---
 
-### 💡 Highlights
+## 💡 Highlights
 
-- 📱 Mobile & cross-platform development  
+- 📱 Mobile & cross-platform development (Flutter, .NET MAUI, Xamarin, Unity)  
 - ⚙️ Clean Architecture, MVVM & Microservices  
-- 🗄 Backend & Database integration  
-- 🚀 CI/CD, Server Management & Play Store + App Store releases  
+- 🗄 Backend & Database integration (MSSQL, PostgreSQL, SQLite, MySQL, MongoDB)  
+- 🚀 CI/CD, Server Management & App Store / Play Store Publishing  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Category                    | Tools & Frameworks |
 |-----------------------------|------------------|
@@ -39,12 +39,26 @@ are deployed to production in a secure and sustainable manner.
 
 ---
 
-### 📬 Contact Me
+## 📱 Projects & Contributions
 
-I am also open to **freelance or contract opportunities**!  
+- **YemekPOS Mobil Garson & Kuryem:** Developed operational mobile apps enabling waiters and couriers to manage orders in real-time, integrated with POS systems  
+- **Mobil Desen:** Developed mobile access to ERP logistics, warehouse, and shipment modules  
+- **YemekPOS Kiosk:** Infrastructure and development of kiosk applications with POS, inventory, and campaign integration  
+
+---
+
+## 🌐 Languages
+
+- English – Advanced
+- German – Beginner
+- Turkish – Native
+
+## 📬 Contact Me
+
+- 📧 [dev@alisariaslan.com](mailto:dev@alisariaslan.com)  
+- 🌍 [alisariaslan.com.tr](https://alisariaslan.com.tr)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisariaslan)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisariaslan@example.com)
 
 ---
 
