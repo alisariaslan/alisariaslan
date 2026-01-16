@@ -28,13 +28,14 @@ are deployed to production in a secure and sustainable manner.
 
 ### 🛠️ Tech Stack
 
-| Platform      | Tools & Frameworks |
-|--------------|------------------|
-| Mobile       | Flutter, Kotlin, Swift, .NET MAUI |
-| Desktop      | WPF, .NET, Electron |
-| Web          | HTML/CSS, JS, React, Express.js |
-| Backend      | .NET, Node.js, REST APIs, SQL, SQLite |
-| DevOps       | Git, GitHub Actions, Docker, CI/CD |
+| Category                    | Tools & Frameworks |
+|-----------------------------|------------------|
+| **Platforms**               | .NET (Framework + Core → MAUI, WPF, Xamarin, ASP, Blazor), Flutter, Node.js, Unity |
+| **Database**                | MSSQL, PostgreSQL, SQLite, MySQL, MongoDB |
+| **Tools & Utilities**       | Git, Docker, Postman, Firebase, Fiddler, Figma |
+| **Server & System Admin**   | Windows Server, Ubuntu Server, NGINX, H Mail Server |
+| **DevOps & Deployment**     | CI/CD, Play Store / App Store Publishing, Web Deploy, Fastlane |
+| **Architectural Preferences** | MVVM + Feature Hybrid Clean Architecture + Microservice-Based, Layer-Based (Service Layer, Socket Layer + RESTful API) |
 
 ---
 
