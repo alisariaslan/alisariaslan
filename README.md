@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali SARIASLAN
 
-![git-header](https://github.com/user-attachments/assets/8c57ca04-ff86-4083-9c7d-0f013fb4c2c0)
+![git-header](https://github.com/user-attachments/assets/87776381-aa73-43ac-8713-7c174444c436)
 
 I am a Software Developer with end-to-end product development
 experience across mobile, desktop, and web platforms. I have
