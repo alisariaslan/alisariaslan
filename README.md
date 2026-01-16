@@ -54,5 +54,6 @@ I am also open to freelance or contract opportunities!
 
 ---
 
-![git-footer](https://github.com/user-attachments/assets/03b6b0a7-5ab3-4acc-850a-594fccf647b3)
+![git-footer](https://github.com/user-attachments/assets/e5eeb233-bf33-4fe4-94c9-52f0b809d19a)
+
 
