@@ -1,3 +1,12 @@
-My interest in software began in middle school with a GameMaker project I developed. During high school, I created products for Windows and Android platforms. In university, I professionally developed mobile applications for both Android and iOS. I have been actively involved in desktop, web, mobile, gaming, service, and database projects. I have a particular interest in layered architecture, error handling, logging systems, and sustainable software development processes. Additionally, I have extensive experience in system and network management through servers I personally manage.
+I am a Software Developer with end-to-end product development
+experience across mobile, desktop, and web platforms. I have
+contributed to the architectural design and development of
+scalable commercial products actively used within the Android and
+iOS ecosystems. I have built integrated solutions aligned with Clean
+Architecture, MVVM, and microservice-based approaches, working
+closely with backend services, external integrations, and database
+layers. I have also taken an active role in CI/CD pipelines, server
+management, and app store release processes to ensure products
+are deployed to production in a secure and sustainable manner.
 
 I am also open to freelance or contract opportunities in database, API, UI development, and system/network management.
