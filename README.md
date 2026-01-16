@@ -9,4 +9,4 @@ layers. I have also taken an active role in CI/CD pipelines, server
 management, and app store release processes to ensure products
 are deployed to production in a secure and sustainable manner.
 
-I am also open to freelance or contract opportunities in database, API, UI development, and system/network management.
+I am also open to freelance or contract opportunities !
