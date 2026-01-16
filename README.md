@@ -39,14 +39,6 @@ I am also open to freelance or contract opportunities!
 
 ---
 
-## 📱 Projects & Contributions
-
-- **YemekPOS Mobil Garson & Kuryem:** Developed operational mobile apps enabling waiters and couriers to manage orders in real-time, integrated with POS systems  
-- **Mobil Desen:** Developed mobile access to ERP logistics, warehouse, and shipment modules  
-- **YemekPOS Kiosk:** Infrastructure and development of kiosk applications with POS, inventory, and campaign integration  
-
----
-
 ## 🌐 Languages
 
 - English – Advanced
